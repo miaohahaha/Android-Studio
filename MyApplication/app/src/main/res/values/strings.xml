@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="after_click_btm1">GO GO GO!</string>
+    <string name="click_bt">CLICK!</string>
+    <string name="cat">head sculpture</string>
+
+</resources>
